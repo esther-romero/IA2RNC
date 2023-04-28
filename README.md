@@ -10,7 +10,11 @@ https://www.canva.com/design/DAFhWvbfVL8/1wR2lYQpfGe2xmQiKp2mpQ/edit?utm_content
 ### Documento
 https://docs.google.com/document/d/1Ugzu4rNvAO-USADIz-EgKergSn-pycJLb9qe5Wd1CZE/edit?usp=sharing
 
+![image](https://user-images.githubusercontent.com/70553210/235047472-ae1395c7-b05e-4bf1-b86c-848a03235c29.png)
+
+
 libro base: https://www.deeplearningbook.org/contents/convnets.html
+
 link de ayuda: https://www.juanbarrios.com/redes-neurales-convolucionales/
 
 ## 2) Herramientas que se puede utilizar con el tema:
