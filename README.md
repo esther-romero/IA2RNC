@@ -8,6 +8,10 @@ https://www.canva.com/design/DAFhWvbfVL8/1wR2lYQpfGe2xmQiKp2mpQ/edit?utm_content
 ### Documento
 https://docs.google.com/document/d/1Ugzu4rNvAO-USADIz-EgKergSn-pycJLb9qe5Wd1CZE/edit?usp=sharing
 
+![image](https://user-images.githubusercontent.com/70553210/235043021-89869f94-2328-42d8-83e4-89990b16ff0b.png)
+
+link de ayuda: https://www.juanbarrios.com/redes-neurales-convolucionales/
+
 ## 2) Herramientas que se puede utilizar con el tema:
 
 ### Presentación
