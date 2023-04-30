@@ -17,6 +17,8 @@ libro base: https://www.deeplearningbook.org/contents/convnets.html
 
 link de ayuda: https://www.juanbarrios.com/redes-neurales-convolucionales/
 
+tema4: https://sitiobigdata.com/wp-content/uploads/2019/05/Innovaciones-arquitect%C3%B3nicas-en-redes-neuronales7.png
+
 ## 2) Herramientas que se puede utilizar con el tema:
 
 ### Presentación
