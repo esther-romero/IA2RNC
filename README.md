@@ -22,10 +22,14 @@ tema4: https://sitiobigdata.com/wp-content/uploads/2019/05/Innovaciones-arquitec
 ## 2) Herramientas que se puede utilizar con el tema:
 
 ### Presentación
-
+https://www.canva.com/design/DAFi1tAgt8U/NL_ZEC8b-l6q5LQqDj-hoQ/edit?utm_content=DAFi1tAgt8U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Documento
 https://docs.google.com/document/d/1hVuv449W52Vw-hwMXe5z08T1zfkpG6CAqOoXy5p1mWE/edit?usp=sharing
+
+![image](https://github.com/esther-romero/IA2RNC/assets/70553210/9481d2af-73de-4ddc-b240-7528e758c53e)
+
+
 
 ## 3) Proyecto con la herramienta aplicado a un problema
 
