@@ -13,7 +13,6 @@ cnn.load_weights(pesos_modelo)  # Carga de los pesos de la red
 
 ################ FUNCIONES PARA LA PREDICCION ################
 
-
 def predict(file):
     global actual_prediction, row
     x = load_img(file, target_size=(longitud, altura))
@@ -35,6 +34,6 @@ def predict(file):
 
       ##################### MAIN #####################
 while True:
-    dir_image = './data/input/p-02.jpg'
+    dir_image = './data/input/q-75.jpg'
     predict(dir_image)
     break
