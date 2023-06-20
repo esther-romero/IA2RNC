@@ -34,6 +34,6 @@ def predict(file):
 
       ##################### MAIN #####################
 while True:
-    dir_image = './data/input/q-75.jpg'
+    dir_image = './data/input/error.jpg'
     predict(dir_image)
     break
